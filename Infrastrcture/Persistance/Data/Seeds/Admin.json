@@ -1,0 +1,37 @@
+[
+  {
+    "AdminID": 1,
+    "Name": "Admin One",
+    "Email": "adminone@example.com",
+    "Phone": "01012345678",
+    "Password": "password123"
+  },
+  {
+    "AdminID": 2,
+    "Name": "Admin Two",
+    "Email": "admintwo@example.com",
+    "Phone": "01023456789",
+    "Password": "password234"
+  },
+  {
+    "AdminID": 3,
+    "Name": "Admin Three",
+    "Email": "adminthree@example.com",
+    "Phone": "01034567890",
+    "Password": "password345"
+  },
+  {
+    "AdminID": 4,
+    "Name": "Admin Four",
+    "Email": "adminfour@example.com",
+    "Phone": "01045678901",
+    "Password": "password456"
+  },
+  {
+    "AdminID": 5,
+    "Name": "Admin Five",
+    "Email": "adminfive@example.com",
+    "Phone": "01056789012",
+    "Password": "password567"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "BiddingID": 1,
+    "Amount": 150.00,
+    "BidTime": "2025-04-01T10:00:00",
+    "Auctionid": 1
+  },
+  {
+    "BiddingID": 2,
+    "Amount": 200.00,
+    "BidTime": "2025-04-02T11:00:00",
+    "Auctionid": 2
+  },
+  {
+    "BiddingID": 3,
+    "Amount": 300.00,
+    "BidTime": "2025-04-03T12:00:00",
+    "Auctionid": 3
+  },
+  {
+    "BiddingID": 4,
+    "Amount": 400.00,
+    "BidTime": "2025-04-04T13:00:00",
+    "Auctionid": 4
+  },
+  {
+    "BiddingID": 5,
+    "Amount": 500.00,
+    "BidTime": "2025-04-05T14:00:00",
+    "Auctionid": 5
+  }
+]

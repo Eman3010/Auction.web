@@ -1,0 +1,37 @@
+[
+  {
+    "SellerID": 1,
+    "Name": "Seller One",
+    "Email": "sellerone@example.com",
+    "Phone": "01012345678",
+    "Password": "sellerpassword123"
+  },
+  {
+    "SellerID": 2,
+    "Name": "Seller Two",
+    "Email": "sellertwo@example.com",
+    "Phone": "01023456789",
+    "Password": "sellerpassword234"
+  },
+  {
+    "SellerID": 3,
+    "Name": "Seller Three",
+    "Email": "sellerthree@example.com",
+    "Phone": "01034567890",
+    "Password": "sellerpassword345"
+  },
+  {
+    "SellerID": 4,
+    "Name": "Seller Four",
+    "Email": "sellerfour@example.com",
+    "Phone": "01045678901",
+    "Password": "sellerpassword456"
+  },
+  {
+    "SellerID": 5,
+    "Name": "Seller Five",
+    "Email": "sellerfive@example.com",
+    "Phone": "01056789012",
+    "Password": "sellerpassword567"
+  }
+]

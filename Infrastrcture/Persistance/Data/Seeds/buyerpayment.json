@@ -1,0 +1,22 @@
+[
+  {
+    "BiddingID": 1,
+    "BuyerId": 1
+  },
+  {
+    "BiddingID": 2,
+    "BuyerId": 2
+  },
+  {
+    "BiddingID": 3,
+    "BuyerId": 3
+  },
+  {
+    "BiddingID": 4,
+    "BuyerId": 4
+  },
+  {
+    "BiddingID": 5,
+    "BuyerId": 5
+  }
+]

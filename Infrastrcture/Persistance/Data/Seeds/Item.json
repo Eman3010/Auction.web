@@ -1,0 +1,37 @@
+[
+  {
+    "ItemID": 1,
+    "Name": "Laptop",
+    "Description": "A high-performance laptop.",
+    "PictureURL": "https://example.com/images/laptop.jpg",
+    "CategoryID": 1
+  },
+  {
+    "ItemID": 2,
+    "Name": "Shirt",
+    "Description": "A stylish shirt.",
+    "PictureURL": "https://example.com/images/shirt.jpg",
+    "CategoryID": 2
+  },
+  {
+    "ItemID": 3,
+    "Name": "Washing Machine",
+    "Description": "A fully automatic washing machine.",
+    "PictureURL": "https://example.com/images/washing_machine.jpg",
+    "CategoryID": 3
+  },
+  {
+    "ItemID": 4,
+    "Name": "Doll",
+    "Description": "A soft and cute doll for children.",
+    "PictureURL": "https://example.com/images/doll.jpg",
+    "CategoryID": 4
+  },
+  {
+    "ItemID": 5,
+    "Name": "Novel",
+    "Description": "A gripping mystery novel.",
+    "PictureURL": "https://example.com/images/novel.jpg",
+    "CategoryID": 5
+  }
+]
